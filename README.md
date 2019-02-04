@@ -28,6 +28,10 @@ so the user enter 392 --> and the output is 392 ..
 # 10
 code convert capital to small and small to capital . 
 
- 
+# 11 
+GCD code 
+# 12 
+draw squares (vertical+hori.) lines
+
 # The codes need DosBOX to run .
 download DosBOS : https://www.dosbox.com/download.php?main=1
