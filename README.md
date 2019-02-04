@@ -1,5 +1,5 @@
 # AssemblyCodes 
-This file inclued codes in assembly that  : 
+This file include codes in assembly that  : 
 
 # 1 
 PRINT STRING(HELLO WORLD)
@@ -27,3 +27,7 @@ so the user enter 392 --> and the output is 392 ..
 
 # 10
 code convert capital to small and small to capital . 
+
+ 
+# The codes need DosBOX to run .
+download DosBOS : https://www.dosbox.com/download.php?main=1
